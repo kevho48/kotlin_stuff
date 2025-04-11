@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Assertions.*
-import org.example.FizzBuzz
+import org.practice.FizzBuzz
 import org.junit.jupiter.api.Test
 
 class TestFizzBuzz {

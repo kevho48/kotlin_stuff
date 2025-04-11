@@ -1,4 +1,4 @@
-package org.example
+package org.practice
 
 fun main() {
     val x = ProjectEulerQ2()

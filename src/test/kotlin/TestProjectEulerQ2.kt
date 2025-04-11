@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Assertions.*
-import org.example.ProjectEulerQ2
+import org.practice.ProjectEulerQ2
 import org.junit.jupiter.api.Test
 
 class TestProjectEulerQ2 {
